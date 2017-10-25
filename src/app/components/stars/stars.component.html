@@ -1,0 +1,16 @@
+<h2>All of the Solar Planets</h2>
+<div> <ul class="stars" id="stars">
+	<li *ngFor="let star of stars"
+	[class.selected]="star === selectedStar"
+	(click)="onSelect(star)" class="stars">
+	<span class="badge">{{star.id}}</span> {{star.name}} is {{star.distance}} away from the ...
+</li>
+</ul>
+</div>
+<div  id="star-detail" *ngIf="selectedStar">
+	<h2>
+		{{selectedStar.name | uppercase}} is my favourite planet
+	</h2>
+	<button (click)="gotoDetail()">View Details</button>
+</div>
+<div class="sun"><section><img src="http://media.moddb.com/cache/images/games/1/51/50676/thumb_620x2000/sun.png" alt="sun 4"></section></div>
