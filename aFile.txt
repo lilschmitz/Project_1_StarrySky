@@ -1,0 +1,205 @@
+Hash: [1mefbcabbda68a3dedd73a[39m[22m
+Version: webpack [1m2.4.1[39m[22m
+Time: [1m20497[39m[22mms
+                                   [1mAsset[39m[22m       [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+     [1m[32mStarry_Sky.f5921881a6f390173238.jpg[39m[22m    13.1 MB        [1m[39m[22m  [1m[32m[39m[22m
+[1m[32mpolyfills.98636fab5aedb8ebb8be.bundle.js[39m[22m    68.1 kB       [1m0[39m[22m  [1m[32m[39m[22mpolyfills
+     [1m[32mmain.795ebf3824388682b0de.bundle.js[39m[22m  490 bytes       [1m1[39m[22m  [1m[32m[39m[22mmain
+   [1m[32mvendor.44de60d6ed9ab87f23f0.bundle.js[39m[22m     226 kB       [1m3[39m[22m  [1m[32m[39m[22mvendor
+   [1m[32minline.1dde0400d5dc8a820aa8.bundle.js[39m[22m    1.46 kB       [1m4[39m[22m  [1m[32m[39m[22minline
+  [1m[32mstyles.23d65de453916190ba83.bundle.css[39m[22m     1.8 kB       [1m2[39m[22m  [1m[32m[39m[22mstyles
+chunk    {[1m[33m0[39m[22m} [1m[32mpolyfills.98636fab5aedb8ebb8be.bundle.js[39m[22m (polyfills) 191 kB {[1m[33m4[39m[22m}[1m[33m [initial][39m[22m[1m[32m [rendered][39m[22m
+chunk    {[1m[33m1[39m[22m} [1m[32mmain.795ebf3824388682b0de.bundle.js[39m[22m (main) 668 bytes {[1m[33m3[39m[22m}[1m[33m [initial][39m[22m[1m[32m [rendered][39m[22m
+chunk    {[1m[33m2[39m[22m} [1m[32mstyles.23d65de453916190ba83.bundle.css[39m[22m (styles) 69 bytes {[1m[33m4[39m[22m}[1m[33m [initial][39m[22m[1m[32m [rendered][39m[22m
+chunk    {[1m[33m3[39m[22m} [1m[32mvendor.44de60d6ed9ab87f23f0.bundle.js[39m[22m (vendor) 865 kB[1m[33m [initial][39m[22m[1m[32m [rendered][39m[22m
+chunk    {[1m[33m4[39m[22m} [1m[32minline.1dde0400d5dc8a820aa8.bundle.js[39m[22m (inline) 0 bytes[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+
+[1m[33mWARNING in polyfills.98636fab5aedb8ebb8be.bundle.js from UglifyJs
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_0_core_js_es6_reflect___default [polyfills.98636fab5aedb8ebb8be.bundle.js:1287,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_1_core_js_es7_reflect___default [polyfills.98636fab5aedb8ebb8be.bundle.js:1289,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_2_zone_js_dist_zone___default [polyfills.98636fab5aedb8ebb8be.bundle.js:1291,25]
+Condition always true [polyfills.98636fab5aedb8ebb8be.bundle.js:1495,2]
+Side effects in initialization of unused variable msie [polyfills.98636fab5aedb8ebb8be.bundle.js:2895,12]
+Side effects in initialization of unused variable targetZone [polyfills.98636fab5aedb8ebb8be.bundle.js:3226,20]
+Dropping unused variable typeOfDelegate [polyfills.98636fab5aedb8ebb8be.bundle.js:3381,24]
+Side effects in initialization of unused variable showError [polyfills.98636fab5aedb8ebb8be.bundle.js:2095,16]
+Condition left of && always false [polyfills.98636fab5aedb8ebb8be.bundle.js:2134,13]
+Condition left of || always false [polyfills.98636fab5aedb8ebb8be.bundle.js:2134,13]
+Condition left of && always false [polyfills.98636fab5aedb8ebb8be.bundle.js:2150,15]
+Condition left of || always false [polyfills.98636fab5aedb8ebb8be.bundle.js:2150,15]
+Condition left of || always false [polyfills.98636fab5aedb8ebb8be.bundle.js:2399,38]
+Condition left of || always false [polyfills.98636fab5aedb8ebb8be.bundle.js:2402,38]
+Dropping unreachable code [polyfills.98636fab5aedb8ebb8be.bundle.js:2421,12]
+Declarations in unreachable code! [polyfills.98636fab5aedb8ebb8be.bundle.js:2421,12]
+Dropping unreachable code [polyfills.98636fab5aedb8ebb8be.bundle.js:2458,12]
+Declarations in unreachable code! [polyfills.98636fab5aedb8ebb8be.bundle.js:2458,12]
+Condition left of && always false [polyfills.98636fab5aedb8ebb8be.bundle.js:2970,15]
+Condition left of || always false [polyfills.98636fab5aedb8ebb8be.bundle.js:2970,15]
+Condition left of && always false [polyfills.98636fab5aedb8ebb8be.bundle.js:2986,15]
+Condition left of || always false [polyfills.98636fab5aedb8ebb8be.bundle.js:2986,15]
+Non-strict equality against boolean: == false [polyfills.98636fab5aedb8ebb8be.bundle.js:4432,29]
+Side effects in initialization of unused variable Zone$1 [polyfills.98636fab5aedb8ebb8be.bundle.js:1507,4][39m[22m
+
+[1m[33mWARNING in main.795ebf3824388682b0de.bundle.js from UglifyJs
+Dropping unreachable code [main.795ebf3824388682b0de.bundle.js:49,0]
+Dropping unreachable code [main.795ebf3824388682b0de.bundle.js:52,0]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_0__angular_core__ [main.795ebf3824388682b0de.bundle.js:41,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_1__environments_environment__ [main.795ebf3824388682b0de.bundle.js:42,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_2__angular_platform_browser__ [main.795ebf3824388682b0de.bundle.js:43,25][39m[22m
+
+[1m[33mWARNING in vendor.44de60d6ed9ab87f23f0.bundle.js from UglifyJs
+Dropping unused function isPlatformBrowser [vendor.44de60d6ed9ab87f23f0.bundle.js:4074,9]
+Dropping unused function isPlatformServer [vendor.44de60d6ed9ab87f23f0.bundle.js:4083,9]
+Dropping unused function isPlatformWorkerApp [vendor.44de60d6ed9ab87f23f0.bundle.js:4092,9]
+Dropping unused function isPlatformWorkerUi [vendor.44de60d6ed9ab87f23f0.bundle.js:4101,9]
+Side effects in initialization of unused variable LOCATION_INITIALIZED [vendor.44de60d6ed9ab87f23f0.bundle.js:254,4]
+Dropping unused variable NgFor [vendor.44de60d6ed9ab87f23f0.bundle.js:1921,4]
+Side effects in initialization of unused variable VERSION [vendor.44de60d6ed9ab87f23f0.bundle.js:4119,4]
+Dropping unreachable code [vendor.44de60d6ed9ab87f23f0.bundle.js:13522,4]
+Declarations in unreachable code! [vendor.44de60d6ed9ab87f23f0.bundle.js:13522,4]
+Dropping unreachable code [vendor.44de60d6ed9ab87f23f0.bundle.js:17765,12]
+Declarations in unreachable code! [vendor.44de60d6ed9ab87f23f0.bundle.js:17765,12]
+Dropping unused function isDefaultChangeDetectionStrategy [vendor.44de60d6ed9ab87f23f0.bundle.js:4964,9]
+Dropping unused function destroyPlatform [vendor.44de60d6ed9ab87f23f0.bundle.js:8654,9]
+Dropping unused function registerModuleFactory [vendor.44de60d6ed9ab87f23f0.bundle.js:9758,9]
+Dropping unused function getModuleFactory [vendor.44de60d6ed9ab87f23f0.bundle.js:9776,9]
+Dropping unused function asNativeElements [vendor.44de60d6ed9ab87f23f0.bundle.js:10785,9]
+Dropping unused function unwrapValue [vendor.44de60d6ed9ab87f23f0.bundle.js:12848,9]
+Dropping unused function createRendererType2 [vendor.44de60d6ed9ab87f23f0.bundle.js:12866,9]
+Dropping unused function interpolate [vendor.44de60d6ed9ab87f23f0.bundle.js:13296,9]
+Dropping unused function inlineInterpolate [vendor.44de60d6ed9ab87f23f0.bundle.js:13326,9]
+Dropping unused function anchorDef [vendor.44de60d6ed9ab87f23f0.bundle.js:13385,9]
+Dropping unused function elementDef [vendor.44de60d6ed9ab87f23f0.bundle.js:13437,9]
+Dropping unused function moduleProvideDef [vendor.44de60d6ed9ab87f23f0.bundle.js:13780,9]
+Dropping unused function moduleDef [vendor.44de60d6ed9ab87f23f0.bundle.js:13792,9]
+Dropping unused function createComponentFactory [vendor.44de60d6ed9ab87f23f0.bundle.js:14143,9]
+Dropping unused function getComponentViewDefinitionFactory [vendor.44de60d6ed9ab87f23f0.bundle.js:14150,9]
+Dropping unused function nodeValue [vendor.44de60d6ed9ab87f23f0.bundle.js:14672,9]
+Dropping unused function directiveDef [vendor.44de60d6ed9ab87f23f0.bundle.js:14991,9]
+Dropping unused function pipeDef [vendor.44de60d6ed9ab87f23f0.bundle.js:15020,9]
+Dropping unused function providerDef [vendor.44de60d6ed9ab87f23f0.bundle.js:15032,9]
+Dropping unused function queryDef [vendor.44de60d6ed9ab87f23f0.bundle.js:15558,9]
+Dropping unused function ngContentDef [vendor.44de60d6ed9ab87f23f0.bundle.js:15763,9]
+Dropping unused function purePipeDef [vendor.44de60d6ed9ab87f23f0.bundle.js:15818,9]
+Dropping unused function pureArrayDef [vendor.44de60d6ed9ab87f23f0.bundle.js:15827,9]
+Dropping unused function pureObjectDef [vendor.44de60d6ed9ab87f23f0.bundle.js:15835,9]
+Dropping unused function textDef [vendor.44de60d6ed9ab87f23f0.bundle.js:16081,9]
+Dropping unused function viewDef [vendor.44de60d6ed9ab87f23f0.bundle.js:16251,9]
+Dropping unused function overrideProvider [vendor.44de60d6ed9ab87f23f0.bundle.js:18146,9]
+Dropping unused function clearProviderOverrides [vendor.44de60d6ed9ab87f23f0.bundle.js:18153,9]
+Dropping unused function createNgModuleFactory [vendor.44de60d6ed9ab87f23f0.bundle.js:18163,9]
+Dropping unused function trigger$$1 [vendor.44de60d6ed9ab87f23f0.bundle.js:19092,9]
+Dropping unused function animate$$1 [vendor.44de60d6ed9ab87f23f0.bundle.js:19101,9]
+Dropping unused function group$$1 [vendor.44de60d6ed9ab87f23f0.bundle.js:19109,9]
+Dropping unused function sequence$$1 [vendor.44de60d6ed9ab87f23f0.bundle.js:19117,9]
+Dropping unused function style$$1 [vendor.44de60d6ed9ab87f23f0.bundle.js:19125,9]
+Dropping unused function state$$1 [vendor.44de60d6ed9ab87f23f0.bundle.js:19134,9]
+Dropping unused function keyframes$$1 [vendor.44de60d6ed9ab87f23f0.bundle.js:19142,9]
+Dropping unused function transition$$1 [vendor.44de60d6ed9ab87f23f0.bundle.js:19151,9]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_1_rxjs_Observable___default [vendor.44de60d6ed9ab87f23f0.bundle.js:4160,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_2_rxjs_observable_merge___default [vendor.44de60d6ed9ab87f23f0.bundle.js:4162,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_share___default [vendor.44de60d6ed9ab87f23f0.bundle.js:4164,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_4_rxjs_Subject___default [vendor.44de60d6ed9ab87f23f0.bundle.js:4166,25]
+Side effects in initialization of unused variable ANALYZE_FOR_ENTRY_COMPONENTS [vendor.44de60d6ed9ab87f23f0.bundle.js:4883,4]
+Side effects in initialization of unused variable ContentChildren [vendor.44de60d6ed9ab87f23f0.bundle.js:4911,4]
+Side effects in initialization of unused variable ContentChild [vendor.44de60d6ed9ab87f23f0.bundle.js:4921,4]
+Side effects in initialization of unused variable ViewChildren [vendor.44de60d6ed9ab87f23f0.bundle.js:4931,4]
+Side effects in initialization of unused variable ViewChild [vendor.44de60d6ed9ab87f23f0.bundle.js:4941,4]
+Side effects in initialization of unused variable Component [vendor.44de60d6ed9ab87f23f0.bundle.js:4991,4]
+Side effects in initialization of unused variable Output [vendor.44de60d6ed9ab87f23f0.bundle.js:5015,4]
+Side effects in initialization of unused variable HostBinding [vendor.44de60d6ed9ab87f23f0.bundle.js:5022,4]
+Side effects in initialization of unused variable HostListener [vendor.44de60d6ed9ab87f23f0.bundle.js:5029,4]
+Dropping unused variable CUSTOM_ELEMENTS_SCHEMA [vendor.44de60d6ed9ab87f23f0.bundle.js:5045,4]
+Dropping unused variable NO_ERRORS_SCHEMA [vendor.44de60d6ed9ab87f23f0.bundle.js:5053,4]
+Side effects in initialization of unused variable ViewMetadata [vendor.44de60d6ed9ab87f23f0.bundle.js:5095,4]
+Dropping unused variable ERROR_COMPONENT_TYPE [vendor.44de60d6ed9ab87f23f0.bundle.js:5341,4]
+Side effects in initialization of unused variable PACKAGE_ROOT_URL [vendor.44de60d6ed9ab87f23f0.bundle.js:7268,4]
+Side effects in initialization of unused variable ModuleWithComponentFactories [vendor.44de60d6ed9ab87f23f0.bundle.js:7316,4]
+Side effects in initialization of unused variable COMPILER_OPTIONS [vendor.44de60d6ed9ab87f23f0.bundle.js:7415,4]
+Side effects in initialization of unused variable CodegenComponentFactoryResolver [vendor.44de60d6ed9ab87f23f0.bundle.js:7601,4]
+Dropping unused variable wtfStartTimeRange [vendor.44de60d6ed9ab87f23f0.bundle.js:7900,4]
+Dropping unused variable wtfEndTimeRange [vendor.44de60d6ed9ab87f23f0.bundle.js:7907,4]
+Side effects in initialization of unused variable RenderComponentType [vendor.44de60d6ed9ab87f23f0.bundle.js:9275,4]
+Side effects in initialization of unused variable RenderDebugInfo [vendor.44de60d6ed9ab87f23f0.bundle.js:9298,4]
+Side effects in initialization of unused variable Renderer2Interceptor [vendor.44de60d6ed9ab87f23f0.bundle.js:9489,4]
+Side effects in initialization of unused variable RootRenderer [vendor.44de60d6ed9ab87f23f0.bundle.js:9506,4]
+Side effects in initialization of unused variable NgModuleFactoryLoader [vendor.44de60d6ed9ab87f23f0.bundle.js:9739,4]
+Side effects in initialization of unused variable moduleFactories [vendor.44de60d6ed9ab87f23f0.bundle.js:9750,4]
+Side effects in initialization of unused variable EmbeddedViewRef [vendor.44de60d6ed9ab87f23f0.bundle.js:10538,4]
+Side effects in initialization of unused variable ValueUnwrapper [vendor.44de60d6ed9ab87f23f0.bundle.js:10914,4]
+Side effects in initialization of unused variable TRANSLATIONS [vendor.44de60d6ed9ab87f23f0.bundle.js:12493,4]
+Side effects in initialization of unused variable TRANSLATIONS_FORMAT [vendor.44de60d6ed9ab87f23f0.bundle.js:12497,4]
+Side effects in initialization of unused variable DebugContext [vendor.44de60d6ed9ab87f23f0.bundle.js:12666,4]
+Dropping unused variable EMPTY_ARRAY [vendor.44de60d6ed9ab87f23f0.bundle.js:13367,4]
+Dropping unused variable EMPTY_MAP [vendor.44de60d6ed9ab87f23f0.bundle.js:13368,4]
+Side effects in initialization of unused variable ComponentFactory_ [vendor.44de60d6ed9ab87f23f0.bundle.js:14153,4]
+Side effects in initialization of unused variable NgModuleFactory_ [vendor.44de60d6ed9ab87f23f0.bundle.js:18166,4]
+Dropping unused variable AUTO_STYLE$$1 [vendor.44de60d6ed9ab87f23f0.bundle.js:19085,4]
+Dropping unused function enableDebugTools [vendor.44de60d6ed9ab87f23f0.bundle.js:24600,9]
+Dropping unused function disableDebugTools [vendor.44de60d6ed9ab87f23f0.bundle.js:24610,9]
+Side effects in initialization of unused variable AngularProfiler [vendor.44de60d6ed9ab87f23f0.bundle.js:24522,4]
+Side effects in initialization of unused variable By [vendor.44de60d6ed9ab87f23f0.bundle.js:24625,4]
+Side effects in initialization of unused variable VERSION [vendor.44de60d6ed9ab87f23f0.bundle.js:24689,4]
+Dropping unused function __rest [vendor.44de60d6ed9ab87f23f0.bundle.js:24895,9]
+Dropping unused function __decorate [vendor.44de60d6ed9ab87f23f0.bundle.js:24905,9]
+Dropping unused function __param [vendor.44de60d6ed9ab87f23f0.bundle.js:24912,9]
+Dropping unused function __metadata [vendor.44de60d6ed9ab87f23f0.bundle.js:24916,9]
+Dropping unused function __awaiter [vendor.44de60d6ed9ab87f23f0.bundle.js:24920,9]
+Dropping unused function __generator [vendor.44de60d6ed9ab87f23f0.bundle.js:24929,9]
+Dropping unused function __exportStar [vendor.44de60d6ed9ab87f23f0.bundle.js:24957,9]
+Dropping unused function __spread [vendor.44de60d6ed9ab87f23f0.bundle.js:24989,9]
+Dropping unused function __asyncGenerator [vendor.44de60d6ed9ab87f23f0.bundle.js:24999,9]
+Dropping unused function __asyncDelegator [vendor.44de60d6ed9ab87f23f0.bundle.js:25011,9]
+Dropping unused function __asyncValues [vendor.44de60d6ed9ab87f23f0.bundle.js:25017,9]
+Dropping unused function __makeTemplateObject [vendor.44de60d6ed9ab87f23f0.bundle.js:25023,9]
+Side effects in initialization of unused variable __assign [vendor.44de60d6ed9ab87f23f0.bundle.js:24887,4]
+Side effects in initialization of unused variable RefCountOperator [vendor.44de60d6ed9ab87f23f0.bundle.js:26315,4][39m[22m
+
+[1m[31mERROR in ./src/main.ts
+Module not found: Error: Can't resolve './$$_gendir/app/app.module.ngfactory' in '/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src'
+ @ ./src/main.ts 4:0-74
+ @ multi ./src/main.ts[39m[22m
+Child [1msrc/app/app.component.html[39m[22m:
+                                                                            [1mAsset[39m[22m    [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/app.component.html[39m[22m  2.8 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/app.component.html[39m[22m 155 bytes[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/components/dashboard/dashboard.component.html[39m[22m:
+                                                                                                       [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/dashboard/dashboard.component.html[39m[22m  2.98 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/dashboard/dashboard.component.html[39m[22m 331 bytes[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/components/star-detail/star-detail.component.html[39m[22m:
+                                                                                                           [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/star-detail/star-detail.component.html[39m[22m  2.94 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/star-detail/star-detail.component.html[39m[22m 287 bytes[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/components/stars/stars.component.html[39m[22m:
+                                                                                               [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/stars/stars.component.html[39m[22m  3.33 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/stars/stars.component.html[39m[22m 685 bytes[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/components/pictures/pictures.component.html[39m[22m:
+                                                                                                     [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/pictures/pictures.component.html[39m[22m  3.06 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/pictures/pictures.component.html[39m[22m 413 bytes[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/components/navbar/navbar.component.html[39m[22m:
+                                                                                                 [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/navbar/navbar.component.html[39m[22m  3.63 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/navbar/navbar.component.html[39m[22m 982 bytes[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1mhtml-webpack-plugin for "index.html"[39m[22m:
+         [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32mindex.html[39m[22m  3.33 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32mindex.html[39m[22m 648 bytes[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/app.component.css[39m[22m:
+                                                                           [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/app.component.css[39m[22m  5.21 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/app.component.css[39m[22m 2.5 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/components/stars/stars.component.css[39m[22m:
+                                                                                              [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/stars/stars.component.css[39m[22m  5.21 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/stars/stars.component.css[39m[22m 2.51 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/components/navbar/navbar.component.css[39m[22m:
+                                                                                                [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/navbar/navbar.component.css[39m[22m  5.21 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/kathrinschmitz/Angular2/Project_1_StarrySky/src/app/components/navbar/navbar.component.css[39m[22m 2.51 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1mextract-text-webpack-plugin[39m[22m:
+                                  [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32mStarry_Sky.f5921881a6f390173238.jpg[39m[22m  13.1 MB        [1m[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32mextract-text-webpack-plugin-output-filename[39m[22m 4.31 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m

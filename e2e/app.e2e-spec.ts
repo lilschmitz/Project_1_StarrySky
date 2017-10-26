@@ -1,10 +1,10 @@
-import { StarryskyPage } from './app.po';
+import { StarrySkyPage } from './app.po';
 
-describe('starrysky App', () => {
-  let page: StarryskyPage;
+describe('starry-sky App', () => {
+  let page: StarrySkyPage;
 
   beforeEach(() => {
-    page = new StarryskyPage();
+    page = new StarrySkyPage();
   });
 
   it('should display welcome message', done => {

@@ -1,6 +1,6 @@
 import { browser, by, element } from 'protractor';
 
-export class StarryskyPage {
+export class StarrySkyPage {
   navigateTo() {
     return browser.get('/');
   }
