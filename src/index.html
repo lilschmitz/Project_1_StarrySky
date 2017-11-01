@@ -1,17 +1,25 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Angular QuickStart</title>
-    <base href="/">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="styles.css">
-    <script>
-      System.import('main.ts').catch(function(err){ console.error(err); });
-    </script>
-  </head>
 
-  <body>
-    <my-app>Loading AppComponent content here ...</my-app>
-  </body>
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' />
+  <script>
+    if (document.location.port !== "") {
+      document.write('<base href="/" />');
+      console.log('preview on <base href="/" />');
+    } else {
+      document.write('<base href="' + document.location + '" />');
+      console.log('running on <base href="' + document.location + '" />');
+    }
+  </script>
+  <title>StarrySky</title>
+</head>
+
+<body>
+<my-app>Loading AppComponent content here ...</my-app>
+</body>
+
+
 </html>
