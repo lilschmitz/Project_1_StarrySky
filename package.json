@@ -11,9 +11,6 @@
     "build-prod": "ng build --prod --env=prod --output-path=dist-prod/",
     "e2e": "ng e2e"
   },
-  “scripts”: {
-    “deploy”: “ng build –prod –aot –base-href=/Project_1_StarrySky/ && cp ./dist/index.html ./dist/404.html && ./node_modules/.bin/angular-cli-ghpages –no-silent”
-},
   "private": true,
   "dependencies": {
     "@angular/animations": "^4.0.0",
