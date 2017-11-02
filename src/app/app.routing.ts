@@ -11,8 +11,8 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
 
 
 const appRoutes: Routes = [
-//   { path: '', redirectTo: '/dashboard', pathMatch: 'full' },
-  {path: '/*', component: DashboardComponent },
+  // { path: '', redirectTo: '/dashboard', pathMatch: 'full' },
+  {path: '', component: DashboardComponent },
   { path: 'navbar',  component: NavbarComponent },
   { path: 'dashboard',  component: DashboardComponent },
   { path: 'pictures',  component: PicturesComponent },
