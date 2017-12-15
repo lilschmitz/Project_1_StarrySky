@@ -1,18 +1,31 @@
-
 body {
-	width: 100%;
-	background-repeat: no-repeat;
-	background-image:url('./img/Starry_Sky.jpg') !important;
-	background-attachment: fixed;
-	background-size: cover;
-	-o-background-size: cover;
-	-moz-background-size: cover;
-	-webkit-background-size: cover;
-	font-family:Source Code Pro/*, Arial, Helvetica*/;
-	margin: 0px auto;
-	text-align: center;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image:url('./img/Starry_Sky.jpg') !important;
+  background-attachment: fixed;
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  font-family:Source Code Pro/*, Arial, Helvetica*/;
+  margin: 0px auto;
+  text-align: center;
 }
+ul .stars{font-family:Source Code Pro/*, Arial, Helvetica*/;
+  color:white;}
+  li.stars.selected{font-family:Source Code Pro/*, Arial, Helvetica*/;
+  color:white;}
+h3{font-family:Source Code Pro/*, Arial, Helvetica*/;
+color:white;}
+h2{font-family:Source Code Pro/*, Arial, Helvetica*/;
+color:white;}
 
+h4 {font-family:Source Code Pro/*, Arial, Helvetica*/;
+color:white;}
+i{color:white;}
+
+label{font-family:Source Code Pro/*, Arial, Helvetica*/;
+color:white;}
 .sun{margin-top: -20px;
 }
 /*img .sun{height:10em;
@@ -20,12 +33,12 @@ width:10em;
 }*/
 
 ul .stars{
-	/*margin: 0 0 2em 0;*/
-	list-style: none !important;
-	/*padding: 0 3em 0 0;*/
-	/*width: 24em;*/
-	text-align: center;
-	text-decoration: none !important;
+  /*margin: 0 0 2em 0;*/
+  list-style: none !important;
+  /*padding: 0 3em 0 0;*/
+  /*width: 24em;*/
+  text-align: center;
+  text-decoration: none !important;
   padding-right: 3em;
   padding-bottom: 10px;
 }

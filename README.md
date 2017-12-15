@@ -4,8 +4,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-REMEMBER to run `npm install` to ensure that the correct Angular CLI package is installed! Before running `ng serve`.
-
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
@@ -32,61 +30,44 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =================================================================
 
 # Project_1_Star_Gazing
+Project is meant to demonstrate knowledge of an Angular JS build integrating an external API call and ultimately styling and rendering the pages in a HTML code and CSS. Bootstrap elements, Font-Awesome were used as well.
 
-Project is meant to demonstrate knowledge of an Angular JS build integrating an external API call and ultimately styling and rendering the pages in a HTML code and CSS. Bootstrap elements, Font-Awesome were used as well. 
-
-# Site Outline 
+# Site Outline
 
 ## Landing Page - "Dashboard"
+Screenshot avaible here: Dashboard
 
-Screenshot avaible here:
-[Dashboard](https://www.dropbox.com/s/ghlvc88r048bbsx/Screenshot%202017-06-29%2017.02.09.png?dl=0)
+This page displays 4 out of the 9 planets that have been stored in a list/tuple.
 
-This page displays 4 out of the 9 planets that have been stored in a list/tuple. 
-
-## Second Page - "Stars" 
-
+## Second Page - "Stars"
 ### Stars Solar Planets List
+Screenshot availabe here: Stars List of Solar Planets
 
-Screenshot availabe here: 
-[Stars List of Solar Planets](https://www.dropbox.com/s/xs550mlxtfu7d6d/Screenshot%202017-06-29%2017.02.15.png?dl=0)
-
-
-This page shows the 9 solar planets in an ordered list with more detailed attributes pulled in from the list - namely distance from the sun. They are ordered according to their relative distance to the sun. 
-
+This page shows the 9 solar planets in an ordered list with more detailed attributes pulled in from the list - namely distance from the sun. They are ordered according to their relative distance to the sun.
 
 ### Stars Links Detailed View
-
-Screenshot availabe here: 
-[Stars List Detailed View](https://www.dropbox.com/s/sxrny4f6pqw2vvz/Screenshot%202017-06-29%2017.02.42.png?dl=0)
+Screenshot availabe here: Stars List Detailed View
 
 List items are clickable and render section beneath list with short statement and further link to detailed page for that particular planet
 
-
 ## Third Page - "Pictures"
+Live NASA API Call
+Screenshot availabe here: Pictures of REAL Stars live from NASA
 
-### Live NASA API Call
+This page is an actual API call to the NASA website and pulls data from the backend using an API key in my name, which NASA is publishing here NASAs Example of pubslished Pictures of the Day APOD
 
-Screenshot availabe here: 
-[Pictures of REAL Stars live from NASA](https://www.dropbox.com/s/yfsig66oujydsph/Screenshot%202017-06-29%2017.02.54.png?dl=0)
+The API can be obtained here API Source
 
-This page is an actual API call to the NASA website and pulls data from the backend using an API key in my name, which NASA is publishing here 
-[NASAs Example of pubslished Pictures of the Day APOD](https://www.nasa.gov/multimedia/imagegallery/iotd.html)
+The API used is the Astronomy Picture of the Day in short APOD. It has been supplemented with the actual time/date details.
 
-The API can be obtained here 
-[API Source](https://api.nasa.gov/)
+## Authors
+•	Kathrin Schmitz
 
-The API used is the Astronomy Picture of the Day in short APOD. It has been supplemented with the actual time/date details. 
-
-# Authors
-
-•	Kathrin Schmitz 
-
-# License
-
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-# Acknowledgments & Inspiration 
+## Acknowledgments & Inspiration
+•	The Angular Super Hero Tutorial which has been adapted and only used for guidance!
 
-•	[The Angular Super Hero Tutorial](https://angular.io/tutorial) which has been adapted and only used for guidance!
+
 
